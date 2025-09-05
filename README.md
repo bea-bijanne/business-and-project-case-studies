@@ -1,4 +1,4 @@
-# 📂 Briefs Portfolio
+# 📂 Business and Project Case Studies
 A portfolio of Market Intelligence Case Studies (business-level analyses) and Development Project Case Studies (technical project summaries). Includes full PDFs linked from Carrd with previews for easy access and consistent branding.
 
 ---
