@@ -1,31 +1,25 @@
 # 📂 Briefs Portfolio
-A portfolio of Market Intelligence Briefs (business-level case studies) and Development Project Briefs (technical project summaries). Includes full PDFs linked from Carrd with previews for easy access and consistent branding.
----
-
-This repository contains two document series:
-
-- **📊 Market Intelligence Briefs (MIBs):** Business-level case studies highlighting market trends, compliance ecosystems, and strategic opportunities.
-- **🛠 Development Project Briefs (DPBs):** Technical project summaries showcasing data workflows, visualization approaches, and applied business intelligence.
+A portfolio of Market Intelligence Case Studies (business-level analyses) and Development Project Case Studies (technical project summaries). Includes full PDFs linked from Carrd with previews for easy access and consistent branding.
 
 ---
 
-## 📊 Market Intelligence Briefs
+## 📊 Market Intelligence Case Studies
 
-### HHA Market Intelligence Brief
-[![HHA Thumbnail](market-intelligence-briefs/HHA_Brief.png)](market-intelligence-briefs/HHA_Brief.pdf)
+### HHA Market Intelligence Case Study
+[![HHA Thumbnail](market-intelligence-briefs/HHA_CaseStudy.png)](market-intelligence-briefs/HHA_CaseStudy.pdf)
 
-### Nursing School Market Intelligence Brief
-[![Nursing Thumbnail](market-intelligence-briefs/Nursing_Brief.png)](market-intelligence-briefs/Nursing_Brief.pdf)
+### Nursing School Market Intelligence Case Study
+[![Nursing Thumbnail](market-intelligence-briefs/Nursing_CaseStudy.png)](market-intelligence-briefs/Nursing_CaseStudy.pdf)
 
-### Trucking (FMCSA DOT Compliance) Market Intelligence Brief
-[![Trucking Thumbnail](market-intelligence-briefs/Trucking_Brief.png)](market-intelligence-briefs/Trucking_Brief.pdf)
+### Trucking (FMCSA DOT Compliance) Market Intelligence Case Study
+[![Trucking Thumbnail](market-intelligence-briefs/Trucking_CaseStudy.png)](market-intelligence-briefs/Trucking_CaseStudy.pdf)
 
 ---
 
-## 🛠 Development Project Briefs
+## 🛠 Development Project Case Studies
 
-### Gaming Development Project Brief
-[![Gaming Thumbnail](development-project-briefs/Gaming_Brief.png)](development-project-briefs/Gaming_Brief.pdf)
+### Gaming Development Project Case Study
+[![Gaming Thumbnail](development-project-briefs/Gaming_CaseStudy.png)](development-project-briefs/Gaming_CaseStudy.pdf)
 
-### Instacart Development Project Brief
-[![Instacart Thumbnail](development-project-briefs/Instacart_Brief.png)](development-project-briefs/Instacart_Brief.pdf)
+### Instacart Development Project Case Study
+[![Instacart Thumbnail](development-project-briefs/Instacart_CaseStudy.png)](development-project-briefs/Instacart_CaseStudy.pdf)
