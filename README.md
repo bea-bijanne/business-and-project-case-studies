@@ -11,5 +11,5 @@ A portfolio of Market Intelligence Case Studies (business-level analyses) and De
 ---
 
 ## 🛠 Development Project Case Studies
-- [Gaming Technical Project](Gaming_TechnicalProject.pdf)  
-- [Instacart Technical Project](Instacart_TechnicalProject.pdf)
+- [Gaming Development Project Case Study](https://github.com/bea-bijanne/business-and-project-case-studies/blob/main/development-project-case-studies/Gaming_TechnicalProject.pdf)  
+- [Instacart Development Project Case Study](https://github.com/bea-bijanne/business-and-project-case-studies/blob/main/development-project-case-studies/Instacart_TechnicalProject.pdf)
