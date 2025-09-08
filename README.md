@@ -11,5 +11,5 @@ A portfolio of Market Intelligence Case Studies (business-level analyses) and De
 ---
 
 ## 🛠 Development Project Case Studies
-- [Gaming Development Project Case Study](development-project-briefs/Gaming_CaseStudy.pdf)  
-- [Instacart Development Project Case Study](development-project-briefs/Instacart_CaseStudy.pdf) 
+- [Gaming Technical Project](Gaming_TechnicalProject.pdf)  
+- [Instacart Technical Project](Instacart_TechnicalProject.pdf)
