@@ -12,8 +12,10 @@ A portfolio of Market Intelligence Case Studies (business-level analyses) and De
 
 ## 🛠 Development Project Case Studies
 - [Gaming Development Project Case Study](https://github.com/bea-bijanne/business-and-project-case-studies/blob/main/development-project-case-studies/Gaming_TechnicalProject.pdf)
-  - [View Full Code on GitHub](https://github.com/bea-bijanne/ice-games-analysis/blob/main/ice_games_analysis.ipynb)  
+  - [View Full Code on GitHub](https://github.com/bea-bijanne/ice-games-analysis/blob/main/ice_games_analysis.ipynb)
+     
 - [Instacart Development Project Case Study](https://github.com/bea-bijanne/business-and-project-case-studies/blob/main/development-project-case-studies/Instacart_TechnicalProject.pdf)
+  - [View Full Code on GitHub](https://github.com/bea-bijanne/instacart-order--analysis/blob/main/EDA_final_project_template.ipynb)
 
 ---
 
