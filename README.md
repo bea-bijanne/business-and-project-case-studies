@@ -4,9 +4,14 @@ A portfolio of Market Intelligence Case Studies (business-level analyses) and De
 ---
 
 ## 📊 Market Intelligence Case Studies
-- [HHA Market Intelligence Case Study](https://github.com/bea-bijanne/business-and-project-case-studies/blob/main/market-intelligence-case-studies/HHA_CaseStudy.pdf)  
-- [Nursing School Market Intelligence Case Study](https://github.com/bea-bijanne/business-and-project-case-studies/blob/main/market-intelligence-case-studies/NursingEd_CaseStudy.pdf)  
+- [HHA Market Intelligence Case Study](https://github.com/bea-bijanne/business-and-project-case-studies/blob/main/market-intelligence-case-studies/HHA_CaseStudy.pdf)
+  - [View Survey Questionnaire](market-intelligence-case-studies/HHA_Survey.pdf)
+
+- [Nursing School Market Intelligence Case Study](https://github.com/bea-bijanne/business-and-project-case-studies/blob/main/market-intelligence-case-studies/NursingEd_CaseStudy.pdf)
+  - [View Survey Questionnaire](market-intelligence-case-studies/NursingEd_Survey.pdf)
+   
 - [Trucking (FMCSA DOT Compliance) Market Intelligence Case Study](https://github.com/bea-bijanne/business-and-project-case-studies/blob/main/market-intelligence-case-studies/FMCSA_Trucking_CaseStudy.pdf)
+  - [View Survey Questionnaire](market-intelligence-case-studies/FMCSA_Trucking_Survey.pdf) 
 
 ---
 
